@@ -1,4 +1,14 @@
-## Hi there 👋
+<div id="header" align="center">
+  <h1>Hi there 👋 I'm Aleksandr.</h1>
+  <h3>Python Backend Developer</h3>
+</div>
+
+<div id="socials" align="center">
+  <a href="https://t.me/aleksandr_shd">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram"/>
+  </a>
+</div>
 
 <!--
 **AleksandrPU/AleksandrPU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
