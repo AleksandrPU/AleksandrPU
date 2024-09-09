@@ -40,35 +40,39 @@ Here are some ideas to get you started:
 <div id="tools">
   <h3>Languages and Tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
-    title="Python" width="80" height="80" />&nbsp;
+    title="Python" width="70" height="70" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
-    title="Python" width="80" height="80" />&nbsp;
+    title="Python" width="70" height="70" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-    title="Python" width="80" height="80" />&nbsp;
+    title="Python" width="70" height="70" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
-    title="Python" width="80" height="80" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
-    title="Python" width="80" height="80" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
-    title="Python" width="80" height="80" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg"
-    title="Poetry" width="80" height="80" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-    title="Python" width="80" height="80" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
-    title="Python" width="80" height="80" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
-    title="Python" width="80" height="80" />&nbsp;
+    title="Python" width="70" height="70" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-    title="Python" width="80" height="80" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"
-    title="Python" width="80" height="80" />&nbsp;
+    title="Python" width="70" height="70" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
-    title="Python" width="80" height="80" />&nbsp;
+    title="Python" width="70" height="70" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+    title="Python" width="70" height="70" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"
+    title="Python" width="70" height="70" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+    title="Python" width="70" height="70" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
+    title="Python" width="70" height="70" />&nbsp;
+  <!--
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
+    title="Python" width="70" height="70" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
+    title="Python" width="70" height="70" />&nbsp;
+  -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg"
+    title="Python" width="70" height="70" />&nbsp;
 </div>
 
+<!--
 <div id="stat" align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AleksandrPU&theme=github" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AleksandrPU&theme=github" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AleksandrPU&theme=github" />
-</div> 
+</div>
+-->
