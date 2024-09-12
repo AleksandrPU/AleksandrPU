@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <div id="about">
   <ul>
     <li>🌱 I’m currently learning Python, Asyncio</li>
-    <li>📫 How to reach me: <a href="https://t.me/aleksandr_shd">Telegram</a></li>
+<!--    <li>📫 How to reach me: <a href="https://t.me/aleksandr_shd">Telegram</a></li> -->
     <li>🌍 I speak Russian, English</li>
   </ul>
 </div>
