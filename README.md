@@ -76,3 +76,15 @@ Here are some ideas to get you started:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AleksandrPU&theme=github" />
 </div>
 -->
+<div id="projects">
+  <h3>Projects</h3>
+  <ul>
+    <li><a href="https://github.com/Studio-Yandex-Practicum/adaptive_hockey_federation">Волонтерский проект для "Федерации Адаптивного Хоккея"</a></li>
+    <li><a href="https://github.com/AleksandrPU/kittygram_final">Веб-приложение для хранения информации и фотографий на Django с API и аутентификацией токенами</a></li>
+    <li><a href="https://github.com/AleksandrPU/foodgram-project-react">Бэкенд для сайта на Django с API</a></li>
+    <li><a href="https://github.com/AleksandrPU/QRkot_spreadsheets">Бэкенд для сайта на FastAPI с Google API Aiogoogle</a></li>
+    <li><a href="https://github.com/AleksandrPU/api_final_yatube">API для сайта сообщений на Django с аутентификацией jwt-токенами</a></li>
+    <li><a href="https://github.com/AleksandrPU/scrapy_parser_pep">Приложение для асинхронного парсинга сайтов</a></li>
+    <li><a href="https://github.com/AleksandrPU/yacut">Мини приложение для создания коротких гиперссылок на Flask</a></li>
+    <li><a href="https://github.com/zhmur-dev/api_yamdb">Командный проект: приложение для сбора отзывов пользователей по книгам, музыке и фильмам на Django</a></li> 
+  </ul>
