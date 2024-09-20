@@ -43,6 +43,8 @@ Here are some ideas to get you started:
     title="Python" width="70" height="70" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
     title="Python" width="70" height="70" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg"
+    title="Python" width="70" height="70" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
     title="Python" width="70" height="70" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
@@ -51,7 +53,11 @@ Here are some ideas to get you started:
     title="Python" width="70" height="70" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
     title="Python" width="70" height="70" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"
+    title="Python" width="70" height="70" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+    title="Python" width="70" height="70" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"
     title="Python" width="70" height="70" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"
     title="Python" width="70" height="70" />&nbsp;
@@ -59,14 +65,18 @@ Here are some ideas to get you started:
     title="Python" width="70" height="70" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
     title="Python" width="70" height="70" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg"
+    title="Python" width="70" height="70" />&nbsp;
   <!--
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
     title="Python" width="70" height="70" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"
     title="Python" width="70" height="70" />&nbsp;
-  -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
+    title="Python" width="70" height="70" />&nbsp;
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg"
     title="Python" width="70" height="70" />&nbsp;
+  -->
 </div>
 
 <!--
