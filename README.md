@@ -98,3 +98,14 @@ Here are some ideas to get you started:
     <li><a href="https://github.com/AleksandrPU/yacut">Мини приложение для создания коротких гиперссылок на Flask</a></li>
     <li><a href="https://github.com/zhmur-dev/api_yamdb">Командный проект: приложение для сбора отзывов пользователей по книгам, музыке и фильмам на Django</a></li> 
   </ul>
+</div>
+<div id="status">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=aleksandrpu" />
+  </a>
+<!--
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aleksandrpu&layout=compact&langs_count=8&card_width=320" />
+  </a>
+-->
+</div>
