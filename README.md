@@ -4,14 +4,8 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="https://www.linkedin.com/in/aleksandrpu/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"/>
-  </a>
-  <a href="https://t.me/aleksandr_shd">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"
-      alt="Telegram"/>
-  </a>
+  <a href="https://www.linkedin.com/in/aleksandrpu/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/aleksandr_shd"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </div>
 
 <!--
@@ -39,30 +33,18 @@ Here are some ideas to get you started:
 
 <div id="tools">
   <h3>Languages and Tools</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
-    title="Python" width="60" height="60" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg"
-    title="Python" width="60" height="60" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg"
-    title="Python" width="60" height="60" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-    title="Python" width="60" height="60" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
-    title="Python" width="60" height="60" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"
-    title="Python" width="60" height="60" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"
-    title="Python" width="60" height="60" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"
-    title="Python" width="60" height="60" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-    title="Python" width="60" height="60" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"
-    title="Python" width="60" height="60" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg"
-    title="Python" width="60" height="60" />&nbsp;
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
-    title="Python" width="60" height="60" />&nbsp;
+  <a href="https://www.python.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" width="60" height="60" alt="Python" /></a>
+  <a href="https://www.djangoproject.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" title="Django" width="60" height="60" alt="Django" /></a>
+  <a href="https://www.django-rest-framework.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-line.svg" title="DRF" width="60" height="60" alt="DRF" /></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI" width="60" height="60" alt="FastAPI" /></a>
+  <a href="https://flask.palletsprojects.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" title="Flask" width="60" height="60" alt="Flask" /></a>
+  <a href="https://www.w3.org/TR/html52/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" title="HTML" width="60" height="60" alt="HTML" /></a>
+  <a href="https://www.w3.org/Style/CSS/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title="CSS" width="60" height="60" alt="CSS" /></a>
+  <a href="https://www.sqlalchemy.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" width="60" height="60" alt="SQLAlchemy" /></a>
+  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="60" height="60" alt="PostgreSQL" /></a>
+  <a href="https://github.com/redis/redis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" title="Redis" width="60" height="60" alt="Redis" /></a>
+  <a href="https://docs.pytest.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" title="Pytest" width="60" height="60" alt="Pytest" /></a>
+  <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" width="60" height="60" alt="Docker" /></a>
   <!--
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg"
     title="Python" width="60" height="60" />&nbsp;
