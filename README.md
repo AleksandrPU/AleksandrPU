@@ -72,8 +72,8 @@ Here are some ideas to get you started:
   <h3>Projects</h3>
   <ul>
     <li><a href="https://github.com/Studio-Yandex-Practicum/adaptive_hockey_federation">Волонтерский проект для "Федерации Адаптивного Хоккея"</a></li>
-    <li><a href="https://github.com/AleksandrPU/kittygram_final">Веб-приложение для хранения фотографий с тегами (Django-4.2, DRF, PostgreSQL)</a></li>
-    <li><a href="https://github.com/AleksandrPU/foodgram-project-react">Бэкенд для сайта ведения заметок о еде (Django, DRF, PostgreSQL, Docker Compose, CI/CD</a></li>
+    <li><a href="https://github.com/AleksandrPU/kittygram_final">Веб-приложение для хранения фотографий (Django-4.2, DRF, PostgreSQL)</a></li>
+    <li><a href="https://github.com/AleksandrPU/foodgram-project-react">Бэкенд для сайта ведения заметок о еде (Django, DRF, PostgreSQL, Docker Compose, CI/CD)</a></li>
 <!--    <li><a href="https://github.com/AleksandrPU/QRkot_spreadsheets">Бэкенд для сайта на FastAPI с Google API Aiogoogle</a></li> -->
     <li><a href="https://github.com/AleksandrPU/charity_fund">Бэкенд для сайта благотворительного фонда (FastAPI-0.111.0, SQLAlchemy-2.0, asyncpg, JWT-токены)</a></li>
     <li><a href="https://github.com/AleksandrPU/api_final_yatube">API для сайта сообщений на Django с аутентификацией jwt-токенами</a></li>
