@@ -43,7 +43,7 @@ Here are some ideas to get you started:
   <a href="https://www.sqlalchemy.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" width="60" height="60" alt="SQLAlchemy" /></a>
   <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="60" height="60" alt="PostgreSQL" /></a>
   <a href="https://github.com/redis/redis"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" title="Redis" width="60" height="60" alt="Redis" /></a>
-  <a href="https://www.rabbitmq.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original-wordmark.svg" title="RabbitMQ" width="60" height="60" alt="RabbitMQ" /></a>
+  <a href="https://www.rabbitmq.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" title="RabbitMQ" width="60" height="60" alt="RabbitMQ" /></a>
   <a href="https://docs.pytest.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" title="Pytest" width="60" height="60" alt="Pytest" /></a>
   <a href="https://www.docker.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" title="Docker" width="60" height="60" alt="Docker" /></a>
   <!--
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
   <h3>Learnig Now</h3>
   <a href="https://go.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Golang" width="60" height="60" alt="Golang" /></a>
   <a href="https://www.mongodb.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" width="60" height="60" alt="MongoDB" /></a>
-  <a href="https://kafka.apache.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" title="Apache Kafka" width="60" height="60" alt="Apache Kafka" /></a>
+  <a href="https://kafka.apache.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" title="Apache Kafka" width="60" height="60" alt="Apache Kafka" /></a>
 </div>
 
 <!--
