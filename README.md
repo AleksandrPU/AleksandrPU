@@ -60,9 +60,10 @@ Here are some ideas to get you started:
     title="Python" width="60" height="60" />&nbsp;
   -->
 </div>
+
 <div id="learning">
   <h3>Learnig Now</h3>
-  <a href="https://go.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Golang" width="60" height="60" alt="Golang" /></a>
+  <a href="https://go.dev"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title="Golang" width="60" height="60" alt="Golang" /></a>
 </div>
 
 <!--
